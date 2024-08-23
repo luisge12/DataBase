@@ -1,0 +1,112 @@
+body{
+    background-color: black;
+}
+
+header{
+    color: #c4ab73;
+    font-family: dm serif text;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 2%;
+}
+
+#logo_LoL{
+    max-width: 200px;
+    max-height: 200px;
+    padding: 10px 0px;
+    padding-left: 50px;
+    float: left;
+
+}
+
+#logo_MK{
+    max-width: 150px;
+    max-height: 150px;
+    position: top;
+    padding: 0px 10px;
+    padding-right: 50px;
+    float: right
+}
+
+#logo_MDK{
+    max-width: 150px;
+    max-height: 150px;
+    float: right;
+}
+
+#formulario{
+    padding: 20% 20% 8%;
+    background-color:#34049c;
+    margin: 100px 150px 0px ;
+    border-radius: 10px;
+}
+
+form{
+    position: absolute;
+    top: 40%;
+    left: 18%;
+    padding: 10% 15%;
+    background-color:  #049cdc;
+    border-radius: 5%;
+}
+
+h4{
+    position: absolute;
+    left: 45%;
+    top: 30%;
+    font-size: 110%;
+    margin: 2%;
+}
+#BD{
+    padding: 0px 20px;
+    position: absolute;
+    top: 38%;
+    left: 60%;
+    max-height: 48%;
+}
+
+
+button{
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    background-color: #c4ab73;
+    padding: 0% 5%;
+}
+
+#label_user{
+    position: absolute;
+    top:18%;
+    left: 20%;
+    padding-right: 10%;
+    font-size: 110%;
+    font-family: dm serif text;
+}
+
+#user{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    background-color: #c4ab73;
+    font-size: 120%;
+    text-decoration: underline;
+}
+
+#label_pass{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    padding-right: 10%;
+    font-size: 110%;
+    font-family: dm serif text;
+}
+
+#password{
+    position: absolute;
+    top: 47%;
+    left: 20%;
+    background-color: #c4ab73;
+    font-size: 120%;
+    text-decoration: underline;
+}
+
